@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a developer and a student of University of Technology Malaysia
+
 <!--
 **faizal-utmspace/faizal-utmspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
